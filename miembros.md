@@ -23,4 +23,3 @@
 * Lady Shiva
 * Giganta
 * Deadshot
-* Scarecrow
